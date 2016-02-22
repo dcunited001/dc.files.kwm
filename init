@@ -1,18 +1,20 @@
-/usr/local/bin/kwmc space -s id 1
-sleep 1
-/usr/local/bin/kwmc space -t bsp
+# the init script is mostly an example of configuring default actions for kwm spaces
 
-/usr/local/bin/kwmc space -s id 2
-sleep 1
-/usr/local/bin/kwmc space -t monocle
+#/usr/local/bin/kwmc space -s id 1
+#sleep 1
+#/usr/local/bin/kwmc space -t bsp
 
-/usr/local/bin/kwmc space -s id 3
-sleep 1
-/usr/local/bin/kwmc space -t bsp
+#/usr/local/bin/kwmc space -s id 2
+#sleep 1
+#/usr/local/bin/kwmc space -t monocle
 
-/usr/local/bin/kwmc space -s id 4
-sleep 1
-/usr/local/bin/kwmc space -t float
+#/usr/local/bin/kwmc space -s id 3
+#sleep 1
+#/usr/local/bin/kwmc space -t bsp
 
-/usr/local/bin/kwmc space -s id 1
-sleep 1
+#/usr/local/bin/kwmc space -s id 4
+#sleep 1
+#/usr/local/bin/kwmc space -t float
+
+#/usr/local/bin/kwmc space -s id 1
+#sleep 1
